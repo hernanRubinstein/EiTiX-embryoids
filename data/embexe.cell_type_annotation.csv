@@ -1,0 +1,51 @@
+,cell_type,color,notes
+1,Forebrain/Midbrain/Hindbrain,#647A4F,26
+2,Rostral neural plate,#649146,24
+3,Surface ectoderm,#f7f79e,29
+4,Neural crest,#C3C388,19
+5,Caudal neural plate,#354E23,25
+6,Neural tube/Floor plate,#CDE088,20
+7,Definitive ectoderm,#90BF75,28
+8,Tail bud - neural,#8e7e59,23
+9,Epiblast,#635547,1
+10,PGC,#FACB12,40
+11,Caudal epiblast,#9e6762,22
+12,Primitive streak,#DABE99,2
+13,Tail bud - mesoderm,#703C37,21
+14,Late nascent mesoderm,#DFCDE4,4
+15,Early nascent mesoderm,#C594BF,3
+16,Caudal mesoderm,#1a3f52,8
+17,Presomitic mesoderm,#A8DBF7,9
+18,Somitic mesoderm,#1AA2EB,10
+19,Paraxial mesoderm,#408DA1,7
+20,Rostral mesoderm,#8DB5CE,5
+21,Cardiopharyngeal mesoderm,#53f1fc,11
+22,Cardiomyocytes,#B51D8D,12
+23,Amnion/Chorion progenitor,#cc7818,32
+24,Amnion/Chorion,#824A09,33
+25,Lateral & intermediate mesoderm,#45d1c5,6
+26,ExE mesoderm,#8870ad,30
+27,Allantois,#532C8A,31
+28,Haematoendothelial progenitors,#FBBE92,13
+29,Endothelial cells,#ff891c,14
+30,Blood progenitors,#c9a997,15
+31,Erythroid 1,#C72228,16
+32,Erythroid 2,#D96B2B,17
+33,Erythroid 3,#FF5608,18
+34,Anterior Primitive Streak,#c19f70,34
+35,Node/Notochord,#0F4A9C,27
+36,Definitive endoderm,#F397C0,37
+37,Gut,#EF5A9D,38
+38,Hindgut,#F25CD4,39
+39,Visceral endoderm,#F6BFCB,35
+40,Visceral endoderm - anterior,#BA9BA1,36
+41,ExE visceral endoderm,#7F6874,49
+42,Parietal endoderm,#1A1A1A,50
+43,Chorion,#ffad1e,42
+44,Chorion progenitors,#ffd854,41
+45,TSC2,#b2b2b2,48
+46,SpT-Gly,#19ce5b,45
+47,EPC progenitors,#d6616b,43
+48,TGC progenitors,#67000d,44
+49,p-TGC,#2e7ebc,47
+50,SpA-TGC,#ff78fa,46
