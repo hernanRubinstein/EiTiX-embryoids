@@ -41,7 +41,7 @@ mcell_mc_from_coclust_balanced(coc_id=mat_id,
                                mat_id= mat_id, 
                                mc_id= mat_id,
                                K=50, 
-                               min_mc_size=40, 
+                               min_mc_size=30, 
                                alpha=2)
 
 mcell_mc_split_filt(new_mc_id=mat_id, mc_id=mat_id, mat_id=mat_id, T_lfc=3, plot_mats=F)

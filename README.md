@@ -1,8 +1,13 @@
 # Mouse-embryo model derived exclusively from embryonic stem cells undergoes neurulation and heart development
 
 This repository is the accompanying code for our paper on the single-cell single structure analysis of Day 6 and 8 EiTiX embryoids.
+<<<<<<< HEAD
 The code is splitted into one jupyter notebook (to generate all figures in this work, named 'Analysis') in the main directory. 
 Additional functions and data construction R scripts can be found in the 'scripts' folder.
+=======
+The code is splitted into one jupyter notebook (to generate all figures in this work, named 'Generate_paper_figures.ipynb') in the main directory. 
+Additional functions and data construction R scripts can be found in the 'scripts' folder (where the order of execution is assigned by a capital letter A-H).
+>>>>>>> 5e9ea6a87b58d01a2ab19239996fcd2ac612c649
 
 ## Raw and processed data storage
 Prior to the analysis, after cloning the repository, please download first the necessary data from the following link:
@@ -21,9 +26,6 @@ The analysis was done using R 4.0.5 and the following packages:
 - here_1.0.1         
 - slanter_0.2-0
 - DoubletFinder_2.0.3 
-- SeuratObject_4.0.2 
-- Seurat_4.0.3
-- forcats_0.5.1
 - stringr_1.4.0      
 - dplyr_1.0.9
 - purrr_0.3.4
@@ -39,7 +41,6 @@ The analysis was done using R 4.0.5 and the following packages:
 - Matrix_1.3-4 
 - data.table_1.14.2
 - qvalue_2.22.0
-- princurve_2.1.6
 - RColorBrewer_1.1-2
 - tglkmeans_0.3.4
 - zoo_1.8-9
